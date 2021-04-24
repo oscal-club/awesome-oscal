@@ -7,6 +7,8 @@ Before contributing, please review the [Contribution Guidelines](https://github.
 
 ## Tools
 
+- [Brian Ruf's OSCAL-GUI](https://github.com/brian-ruf/OSCAL-GUI): An example PHP web interface developed by [@brian-ruf](https://github.com/brian-ruf) of former FedRAMP fame. It has core presentation logic, file import, format conversion, and working profile resolution.
+
 - [GSA's OSCAL Tools](https://github.com/GSA?q=oscal-&type=&language=&sort=): A collection of open-source tools provided by GSA teams to interoperate between OSCAL data (with required FedRAMP Extensions) and Word (DOCX) formats for SSPs, SARs, and SAPs.
 
 - [GoComply's FedRAMP Utility](https://github.com/GoComply/fedramp): a tool that uses oscalkit (see below) to stamp in OSCAL data to the FedRAMP Word (DOCX) system security plan templates.
@@ -18,6 +20,8 @@ Before contributing, please review the [Contribution Guidelines](https://github.
 - [IBM Compliance Trestle](https://github.com/IBM/compliance-trestle): An opinionated command-line tooling platform for managing compliance as code, using continuous integration and NIST's OSCAL standard. 
 
 - [SHR Group's pyOSCAL-Builder](https://gitlab.com/shrgroup/oss/python/pyoscal-builder): Python scripts and tools to create a Python library to process OSCAL data, developed by the clever [@mruge](https://github.com/mruge). Built on a library to generate [Python classes](https://gitlab.com/shrgroup/oss/python/pyoscal) from Metaschema.
+
+- [Wendell Piez's OSCAL Profile Import Examiner](https://wendellpiez.github.io/XMLjellysandwich/oscal/import-examiner/): [XMLJellySandwich]((https://github.com/wendellpiez/XMLjellysandwich)) is a web-based, in-browser XSLT transform system leveraging SaxonJS. [@wendellpiez](https://github.com/wendellpiez) has focused one demo on validating an OSCAL profile in XML form by validating upstream catalog references.
 
 ## Blog Posts
 
