@@ -7,6 +7,8 @@ Before contributing, please review the [Contribution Guidelines](https://github.
 
 ## Tools
 
+- [GovReadyQ](github.com/GovReady/govready/): An open source, self-service GRC tool to automate security assessments and compliance from [@gregelin](https://github.com/gregelin) and the GovReady crew. It focuses on import and export of OSCAL data models.
+
 - [pyOSCAL-Builder](https://gitlab.com/shrgroup/oss/python/pyoscal-builder): Python scripts and tools to create a Python library to process OSCAL data, developed by the clever [@mruge](https://github.com/mruge). Built on a library to generate [Python classes](https://gitlab.com/shrgroup/oss/python/pyoscal) from Metaschema.
 
 ## Blog Posts
