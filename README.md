@@ -7,11 +7,15 @@ Before contributing, please review the [Contribution Guidelines](https://github.
 
 ## Tools
 
-- [GovReadyQ](github.com/GovReady/govready-q): An open source, web-based self-service GRC tool to automate security assessments and compliance from [@gregelin](https://github.com/gregelin) and the GovReady crew. It focuses on import and export of OSCAL data models.
+- [GoComply's fedramp](https://github.com/GoComply/fedramp): a tool that uses oscalkit (see below) to stamp in OSCAL data to the FedRAMP Word (DOCX) system security plan templates.
+
+- [GoComply's oscalkit](https://github.com/GoComply/oscalkit): a Golang-based software development kit and command-line utility for operating on OSCAL data models. 
+
+- [GovReady's GovReady-Q](github.com/GovReady/govready-q): An open source, web-based self-service GRC tool to automate security assessments and compliance from [@gregelin](https://github.com/gregelin) and the GovReady crew. It focuses on import and export of OSCAL data models.
 
 - [IBM Compliance Trestle](https://github.com/IBM/compliance-trestle): An opinionated command-line tooling platform for managing compliance as code, using continuous integration and NIST's OSCAL standard. 
 
-- [pyOSCAL-Builder](https://gitlab.com/shrgroup/oss/python/pyoscal-builder): Python scripts and tools to create a Python library to process OSCAL data, developed by the clever [@mruge](https://github.com/mruge). Built on a library to generate [Python classes](https://gitlab.com/shrgroup/oss/python/pyoscal) from Metaschema.
+- [SHR Group's pyOSCAL-Builder](https://gitlab.com/shrgroup/oss/python/pyoscal-builder): Python scripts and tools to create a Python library to process OSCAL data, developed by the clever [@mruge](https://github.com/mruge). Built on a library to generate [Python classes](https://gitlab.com/shrgroup/oss/python/pyoscal) from Metaschema.
 
 ## Blog Posts
 
