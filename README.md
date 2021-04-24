@@ -17,7 +17,11 @@ Before contributing, please review the [Contribution Guidelines](https://github.
 
 - [GovReady's GovReady-Q](github.com/GovReady/govready-q): An open source, web-based self-service GRC tool to automate security assessments and compliance from [@gregelin](https://github.com/gregelin) and the GovReady crew. It focuses on import and export of OSCAL data models.
 
-- [IBM Compliance Trestle](https://github.com/IBM/compliance-trestle): An opinionated command-line tooling platform for managing compliance as code, using continuous integration and NIST's OSCAL standard. 
+- [IBM Compliance Trestle](https://github.com/IBM/compliance-trestle): An opinionated command-line tooling platform for managing compliance as code, using continuous integration and NIST's OSCAL standard.
+
+- [John Jediny's OSCAL Static Site Playground](https://github.com/JJediny/oscal-static-site-playground): a static web application, using Gatsby and the US Web Design System, with hosting on the Federalist platform, to host a modern responsive application with OSCAL data models in JSON format dropped in place.
+
+- [mocolicious OSCAL-Examples](https://github.com/mocolicious/OSCAL-Examples): A collection of different front-end web applications leveraging OSCAL, mainly to show off different development workflows and environments. Current development status or community use is unclear.
 
 - [SHR Group's pyOSCAL-Builder](https://gitlab.com/shrgroup/oss/python/pyoscal-builder): Python scripts and tools to create a Python library to process OSCAL data, developed by the clever [@mruge](https://github.com/mruge). Built on a library to generate [Python classes](https://gitlab.com/shrgroup/oss/python/pyoscal) from Metaschema.
 
