@@ -23,7 +23,7 @@ Before contributing, please review the [Contribution Guidelines](https://github.
 
 - [mocolicious OSCAL-Examples](https://github.com/mocolicious/OSCAL-Examples): A collection of different front-end web applications leveraging OSCAL, mainly to show off different development workflows and environments. Current development status or community use is unclear.
 
-- [SHR Group's pyOSCAL-Builder](https://gitlab.com/shrgroup/oss/python/pyoscal-builder): Python scripts and tools to create a Python library to process OSCAL data, developed by the clever [@mruge](https://github.com/mruge). Built on a library to generate [Python classes](https://gitlab.com/shrgroup/oss/python/pyoscal) from Metaschema.
+- [SHR Group's pyOSCAL](https://gitlab.com/shrgroup/oss/python/pyoscal): Python library to convert OSCAL content into python objects, developed by the clever [@mruge](https://github.com/mruge).  [pyOSCAL-Builder](https://gitlab.com/shrgroup/oss/python/pyoscal-builder) automatically generates pyOSCAL dynamically from the lastes NIST OSCAL Metaschema.
 
 - [Wendell Piez's OSCAL Profile Import Examiner](https://wendellpiez.github.io/XMLjellysandwich/oscal/import-examiner/): [XMLJellySandwich]((https://github.com/wendellpiez/XMLjellysandwich)) is a web-based, in-browser XSLT transform system leveraging SaxonJS. [@wendellpiez](https://github.com/wendellpiez) has focused one demo on validating an OSCAL profile in XML form by validating upstream catalog references.
 
