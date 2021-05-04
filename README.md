@@ -32,3 +32,5 @@ Before contributing, please review the [Contribution Guidelines](https://github.
 ## Blog Posts
 
 ## Other Resources
+
+- [Brad Hards ISM OSCAL Catalog](https://github.com/bradh/ism-oscal): a community developer's collection of [the Australian government's Information Security Manual security controls](https://www.cyber.gov.au/acsc/view-all-content/ism) in the form of OSCAL catalogs.
