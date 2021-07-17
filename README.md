@@ -15,7 +15,7 @@ Before contributing, please review the [Contribution Guidelines](https://github.
 
 - [GoComply's oscalkit](https://github.com/GoComply/oscalkit): a Golang-based software development kit and command-line utility for operating on OSCAL data models. 
 
-- [GovReady's GovReady-Q](github.com/GovReady/govready-q): An open source, web-based self-service GRC tool to automate security assessments and compliance from [@gregelin](https://github.com/gregelin) and the GovReady crew. It focuses on import and export of OSCAL data models.
+- [GovReady's GovReady-Q](https://github.com/GovReady/govready-q): An open source, web-based self-service GRC tool to automate security assessments and compliance from [@gregelin](https://github.com/gregelin) and the GovReady crew. It focuses on import and export of OSCAL data models.
 
 - [IBM Compliance Trestle](https://github.com/IBM/compliance-trestle): An opinionated command-line tooling platform for managing compliance as code, using continuous integration and NIST's OSCAL standard.
 
