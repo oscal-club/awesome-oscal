@@ -45,6 +45,12 @@ Before contributing, please review the [Contribution Guidelines](https://github.
 
 - [EasyDynamics "Innovating Security Compliance Through Open Standards"](https://blogs.easydynamics.com/2021/07/07/innovating-security-compliance-through-open-standards/)
 
+- [Šimon Lukašík's "GoComply with OSCAL & FedRAMP :: Introduction to OSCAL"](http://isimluk.com/posts/2020/12/gocomply-with-oscal-fedramp-introduction-to-oscal/)
+
+- [Šimon Lukašík's "GoComply with OSCAL & FedRAMP :: Introduction to oscalkit"](http://isimluk.com/posts/2020/12/gocomply-with-oscal-fedramp-introduction-to-oscalkit/)
+
+- [Šimon Lukašík's "GoComply with OSCAL & FedRAMP :: Introduction to Metaschema"](http://isimluk.com/posts/2020/12/gocomply-with-oscal-fedramp-introduction-to-metaschema/)
+
 ## Other Resources
 
 - [Brad Hards ISM OSCAL Catalog](https://github.com/bradh/ism-oscal): a community developer's collection of [the Australian government's Information Security Manual security controls](https://www.cyber.gov.au/acsc/view-all-content/ism) in the form of OSCAL catalogs.
