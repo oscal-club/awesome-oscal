@@ -25,6 +25,8 @@ Before contributing, please review the [Contribution Guidelines](https://github.
 
 - [OMB'S OPAL](https://github.com/EOP-OMB/opal): OSCAL Policy Administration Library (OPAL) provides a simple web application from the US government's Office of Management and Budget for managing system security plans, using the OSCAL standard to inform its data models.
 
+- [Risk Redux's Control Freak](https://github.com/risk-redux/control_freak), a delightful Ruby on Rails application using the NIST 800-53 control catalogs in OSCAL JSON format to make the controls easily searchable.
+
 - [SHR Group's pyOSCAL](https://gitlab.com/shrgroup/oss/python/pyoscal): Python library to convert OSCAL content into python objects, developed by the clever [@mruge](https://github.com/mruge).  [pyOSCAL-Builder](https://gitlab.com/shrgroup/oss/python/pyoscal-builder) automatically generates pyOSCAL dynamically from the lastes NIST OSCAL Metaschema.
 
 - [Wendell Piez's OSCAL Profile Import Examiner](https://wendellpiez.github.io/XMLjellysandwich/oscal/import-examiner/): [XMLJellySandwich]((https://github.com/wendellpiez/XMLjellysandwich)) is a web-based, in-browser XSLT transform system leveraging SaxonJS. [@wendellpiez](https://github.com/wendellpiez) has focused one demo on validating an OSCAL profile in XML form by validating upstream catalog references.
