@@ -9,6 +9,10 @@ Before contributing, please review the [Contribution Guidelines](https://github.
 
 - [Brian Ruf's OSCAL-GUI](https://github.com/brian-ruf/OSCAL-GUI): An example PHP web interface developed by [@brian-ruf](https://github.com/brian-ruf) of former FedRAMP fame. It has core presentation logic, file import, format conversion, and working profile resolution.
 
+- [EasyDynamics OSCAL REST API Draft Standard](https://github.com/EasyDynamics/oscal-rest): an emerging standard for REST APIs to encourage all tool vendors to make a conformant API surface to reduce future churn in supporting heterogenous APIs for OSCAL-friendly tools and services.
+
+- [EasyDynamics OSCAL React Library](https://github.com/EasyDynamics/oscal-react): a fully featured React component library for rendering all the OSCAL object models in JSON format with a developer-friendly API and a clean (but customizable) React-based UI.
+
 - [GSA's OSCAL Tools](https://github.com/GSA?q=oscal-&type=&language=&sort=): A collection of open-source tools provided by GSA teams to interoperate between OSCAL data (with required FedRAMP Extensions) and Word (DOCX) formats for SSPs, SARs, and SAPs.
 
 - [GoComply's FedRAMP Utility](https://github.com/GoComply/fedramp): a tool that uses oscalkit (see below) to stamp in OSCAL data to the FedRAMP Word (DOCX) system security plan templates.
@@ -38,6 +42,8 @@ Before contributing, please review the [Contribution Guidelines](https://github.
 - [Wendell Piez's OSCAL Profile Import Examiner](https://wendellpiez.github.io/XMLjellysandwich/oscal/import-examiner/): [XMLJellySandwich]((https://github.com/wendellpiez/XMLjellysandwich)) is a web-based, in-browser XSLT transform system leveraging SaxonJS. [@wendellpiez](https://github.com/wendellpiez) has focused one demo on validating an OSCAL profile in XML form by validating upstream catalog references.
 
 ## Blog Posts
+
+- [EasyDynamics "Innovating Security Compliance Through Open Standards"](https://blogs.easydynamics.com/2021/07/07/innovating-security-compliance-through-open-standards/)
 
 ## Other Resources
 
