@@ -9,6 +9,10 @@ Before contributing, please review the [Contribution Guidelines](https://github.
 
 - [Brian Ruf's OSCAL-GUI](https://github.com/brian-ruf/OSCAL-GUI): An example PHP web interface developed by [@brian-ruf](https://github.com/brian-ruf) of former FedRAMP fame. It has core presentation logic, file import, format conversion, and working profile resolution.
 
+- [CivicActions's compliance-io](https://github.com/CivicActions/compliance-io) library for composable functions for conversion from OpenControl to OSCAL.
+
+- [CivicAtions's ssp-toolkit](https://github.com/CivicActions/ssp-toolkit) is a suite of command line utilities in Python to mediate the creation of system security plans in NIST RMF 800-53 Revision 4 in OpenControl format. It can now export SSPs to OSCAL.
+
 - [EasyDynamics OSCAL REST API Draft Standard](https://github.com/EasyDynamics/oscal-rest): an emerging standard for REST APIs to encourage all tool vendors to make a conformant API surface to reduce future churn in supporting heterogenous APIs for OSCAL-friendly tools and services.
 
 - [EasyDynamics OSCAL React Library](https://github.com/EasyDynamics/oscal-react): a fully featured React component library for rendering all the OSCAL object models in JSON format with a developer-friendly API and a clean (but customizable) React-based UI.
