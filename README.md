@@ -19,6 +19,10 @@ Before contributing, please review the [Contribution Guidelines](https://github.
 
 - [EasyDynamics OSCAL React Library](https://github.com/EasyDynamics/oscal-react): a fully featured React component library for rendering all the OSCAL object models in JSON format with a developer-friendly API and a clean (but customizable) React-based UI.
 
+- [EasyDynamics OSCAL REST API Service](https://github.com/EasyDynamics/oscal-rest-service): an initial Java-based implementation of some the OSCAL REST API listed above. It persists data as files in local directories.
+
+- [EasyDynamics OSCAL Editor Deployment](): an integrated application, with the REST API service and React-based frontend (mentioned above), packaged as a simple Docker deployment of both open-source projects. It allows both viewing, and for some OSCAL document types and scenarios, editing file content and saving it to a properly configured Docker volume.
+
 - [GSA's OSCAL Tools](https://github.com/GSA?q=oscal-&type=&language=&sort=): a collection of open-source tools provided by GSA teams to interoperate between OSCAL data (with required FedRAMP Extensions) and Word (DOCX) formats for SSPs, SARs, and SAPs.
 
 - [GoComply's FedRAMP Utility](https://github.com/GoComply/fedramp): a tool that uses oscalkit (see below) to stamp in OSCAL data to the FedRAMP Word (DOCX) system security plan templates.
