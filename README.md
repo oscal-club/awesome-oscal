@@ -63,6 +63,10 @@ Before contributing, please review the [Contribution Guidelines](https://github.
 
 ## Blog Posts
 
+- [Bill Weber's "The Future of SCAP Is the Missing Gap in OSCAL"](https://www.billweber.io/2022/05/13/the-future-of-scap-is-the-missing-gap-in-oscal/)
+
+- [Bill Weber's "Tired of Following the Compliance Herd?"](https://www.billweber.io/2022/05/13/the-future-of-scap-is-the-missing-gap-in-oscal/)
+
 - [EasyDynamics "Innovating Security Compliance Through Open Standards"](https://blogs.easydynamics.com/2021/07/07/innovating-security-compliance-through-open-standards/)
 
 - [EasyDynamics "DevSecComp(liance)Ops with OSCAL"](https://blogs.easydynamics.com/2022/03/18/devseccomplianceops-with-oscal/)
