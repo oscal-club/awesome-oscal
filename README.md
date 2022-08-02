@@ -51,6 +51,8 @@ Before contributing, please review the [Contribution Guidelines](https://github.
 
 - [RedHat's OpenControl Database](https://github.com/RedHatGov/ocdb): a web application that demonstrates RedHat technologies' conformance to different compliance standards (i.e. NIST 800-53 Revisiion 5) and configuration baselines (i.e. DISA STIG for RedHat Enterprise Linux 7), supporting the export of various artifacts in OSCAL format with GoComply's library.
 
+- [RegScale](https://regscale.com/oscal): RegScale Community Edition is a free to use, real-time Governance, Risk and Compliance (GRC) platform that deploys in any environment, integrating with security and compliance tools via API to keep compliance documentation continuously up to date.  GRC staff can work in the UI, engineers can write to the API, and OSCAL v1.0 content is automatically generated on demand.
+
 - [Risk Redux's Control Freak](https://github.com/risk-redux/control_freak): a delightful Ruby on Rails application using the NIST 800-53 control catalogs in OSCAL JSON format to make the controls easily searchable.
 
 - [SHR Group's iac2oscal](https://gitlab.com/shrgroup/oss/compliance-as-code/iac2oscal): a collection of Infrastructure-as-Code examples (primarily Ansible and Terraform) and how to link them to OSCAL component models for more tightly integrated Infrastructure-as-Code and Documentation-as-Code.
