@@ -5,6 +5,14 @@ A collection of awesome community resources, [maybe not quite production ready](
 
 Before contributing, please review the [Contribution Guidelines](https://github.com/oscal-club/awesome-oscal/blob/master/CONTRIBUTING.md).
 
+## Content
+
+- [Australian Cyber Security Centre's Information Security Manual in OSCAL](https://www.cyber.gov.au/ism/oscal): OSCAL-based security catalogs and profiles for the Australian Cyber Security Centre's Information Security Manual controls.
+
+- [Center for Internet Security's ](https://github.com/CISecurity/CISControls_OSCAL/): the Center for Internet Security's Critical 18 Security controls as an OSCAL catalog, also with their controls related to other catalogs of security controls in the draft OSCAL mapping format.
+
+- [CMS Acceptable Risk Safeguards](https://github.com/CMSgov/ars-machine-readable): the tailored profiles and catalog of adapted NIST SP 800-53 controls used by the Centers for Medicare and Medicaid Services in OSCAL format. Perhaps the first OSCAL content released by a US government agency other than NIST, separate of collaboration with FedRAMP.
+
 ## Tools
 
 - [Alex Koderman's oscal4neo4j](https://github.com/Agh42/oscal4neo4j): a collection of scripts in Neo4j's Cypher query language to load OSCAL catalog data in JSON format into its graph database, potentially for use with [the Red Team Project's Security Control Knowledge Graph](https://gitlab.com/redteam-project/sckg).
