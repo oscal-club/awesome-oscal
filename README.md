@@ -81,6 +81,12 @@ Before contributing, please review the [Contribution Guidelines](https://github.
 
 - [EasyDynamics "DevSecComp(liance)Ops with OSCAL"](https://blogs.easydynamics.com/2022/03/18/devseccomplianceops-with-oscal/)
 
+- [IBM's "Compliance Automated Standard Solution (COMPASS), Part 1: Personas and Roles"](https://dzone.com/articles/compass-compliance-part-1)
+
+- [IBM's "Compliance Automated Standard Solution (COMPASS), Part 2: Trestle SDK"](https://dzone.com/articles/compliance-automated-standard-solution-compass-part-2-trestle-sdk)
+
+- [IBM's "Compliance Automated Standard Solution (COMPASS), Part 3: Artifacts and Personas"](https://dzone.com/articles/compliance-automated-standard-solution-compass-part-3-artifacts-and-personas)
+
 - [Šimon Lukašík's "GoComply with OSCAL & FedRAMP :: Introduction to OSCAL"](http://isimluk.com/posts/2020/12/gocomply-with-oscal-fedramp-introduction-to-oscal/)
 
 - [Šimon Lukašík's "GoComply with OSCAL & FedRAMP :: Introduction to oscalkit"](http://isimluk.com/posts/2020/12/gocomply-with-oscal-fedramp-introduction-to-oscalkit/)
