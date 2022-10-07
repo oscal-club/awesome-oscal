@@ -25,6 +25,8 @@ Before contributing, please review the [Contribution Guidelines](https://github.
 
 - [Defense Unicorn's bigbang-oscal-component-generator](https://github.com/defenseunicorns/bigbang-oscal-component-generator): a CLI utility and Golang libraries to merge together individual OSCAL YAML components into a unified OSCAL YAML component definition, focused primarily on the specific needs of [Platform One's Big Bang](https://repo1.dso.mil/platform-one/big-bang/bigbang).
 
+- [Defense Unicorn's compliance-auditor](https://github.com/defenseunicorns/compliance-auditor): a tool that will consume OSCAL component-definition files to configure and drive execution of automated security testing for Kubernetes, for now primarily the [Kyverno](https://kyverno.io/) policy management system.
+
 - [EasyDynamics OSCAL REST API Draft Standard](https://github.com/EasyDynamics/oscal-rest): an emerging standard for REST APIs to encourage all tool vendors to make a conformant API surface to reduce future churn in supporting heterogenous APIs for OSCAL-friendly tools and services.
 
 - [EasyDynamics OSCAL React Library](https://github.com/EasyDynamics/oscal-react): a fully featured React component library for rendering all the OSCAL object models in JSON format with a developer-friendly API and a clean (but customizable) React-based UI.
