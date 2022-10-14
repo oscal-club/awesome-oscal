@@ -83,6 +83,8 @@ Before contributing, please review the [Contribution Guidelines](https://github.
 
 - [EasyDynamics "DevSecComp(liance)Ops with OSCAL"](https://blogs.easydynamics.com/2022/03/18/devseccomplianceops-with-oscal/)
 
+- [Greg Elin's "An Orientation to OSCAL in the DevSecOps Pipeline"](https://medium.com/@gregelin/an-orientation-to-oscal-in-the-devsecops-pipeline-b51e45f8503b)
+
 - [IBM's "Compliance Automated Standard Solution (COMPASS), Part 1: Personas and Roles"](https://dzone.com/articles/compass-compliance-part-1)
 
 - [IBM's "Compliance Automated Standard Solution (COMPASS), Part 2: Trestle SDK"](https://dzone.com/articles/compliance-automated-standard-solution-compass-part-2-trestle-sdk)
