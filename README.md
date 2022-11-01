@@ -13,6 +13,8 @@ Before contributing, please review the [Contribution Guidelines](https://github.
 
 - [CMS Acceptable Risk Safeguards](https://github.com/CMSgov/ars-machine-readable): the tailored profiles and catalog of adapted NIST SP 800-53 controls used by the Centers for Medicare and Medicaid Services in OSCAL format. Perhaps the first OSCAL content released by a US government agency other than NIST, separate of collaboration with FedRAMP.
 
+- [Fathom5 SP 800-171 Catalog](https://github.com/FATHOM5/oscal/tree/main/content/SP800-171/oscal-content): the community-maintained version(s) of the NIST SP 800-171 catalog created by Fathom5.
+
 ## Tools
 
 - [Alex Koderman's oscal4neo4j](https://github.com/Agh42/oscal4neo4j): a collection of scripts in Neo4j's Cypher query language to load OSCAL catalog data in JSON format into its graph database, potentially for use with [the Red Team Project's Security Control Knowledge Graph](https://gitlab.com/redteam-project/sckg).
