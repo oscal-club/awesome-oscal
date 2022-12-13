@@ -21,7 +21,9 @@ Before contributing, please review the [Contribution Guidelines](https://github.
 
 - [Brian Ruf's OSCAL-GUI](https://github.com/brian-ruf/OSCAL-GUI): an example PHP web interface developed by [@brian-ruf](https://github.com/brian-ruf) of former FedRAMP fame. It has core presentation logic, file import, format conversion, and working profile resolution.
 
-- [CivicActions's compliance-io](https://github.com/CivicActions/compliance-io) library for composable functions for conversion from OpenControl to OSCAL.
+- [CivicActions's compliance-io](https://github.com/CivicActions/compliance-io): library for composable functions for conversion from OpenControl to OSCAL.
+
+- [CivicAction's oscal-component-definitions](https://github.com/CivicActions/oscal-component-definitions): a public collection of OSCAL component definitions for commonly used cloud services, software, security controls, and privacy controls.
 
 - [CivicAtions's ssp-toolkit](https://github.com/CivicActions/ssp-toolkit) is a suite of command line utilities in Python to mediate the creation of system security plans in NIST RMF 800-53 Revision 4 in OpenControl format. It can now export SSPs to OSCAL.
 
