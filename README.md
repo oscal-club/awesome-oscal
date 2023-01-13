@@ -31,6 +31,8 @@ Before contributing, please review the [Contribution Guidelines](https://github.
 
 - [Defense Unicorn's compliance-auditor](https://github.com/defenseunicorns/compliance-auditor): a tool that will consume OSCAL component-definition files to configure and drive execution of automated security testing for Kubernetes, for now primarily the [Kyverno](https://kyverno.io/) policy management system.
 
+- [Defense Unicorn's go-oscal](https://github.com/defenseunicorns/go-oscal): a Golang library to generate OSCAL data types.
+
 - [EasyDynamics OSCAL REST API Draft Standard](https://github.com/EasyDynamics/oscal-rest): an emerging standard for REST APIs to encourage all tool vendors to make a conformant API surface to reduce future churn in supporting heterogenous APIs for OSCAL-friendly tools and services.
 
 - [EasyDynamics OSCAL React Library](https://github.com/EasyDynamics/oscal-react): a fully featured React component library for rendering all the OSCAL object models in JSON format with a developer-friendly API and a clean (but customizable) React-based UI.
