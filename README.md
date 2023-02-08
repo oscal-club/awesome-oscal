@@ -29,7 +29,7 @@ Before contributing, please review the [Contribution Guidelines](https://github.
 
 - [Defense Unicorn's bigbang-oscal-component-generator](https://github.com/defenseunicorns/bigbang-oscal-component-generator): a CLI utility and Golang libraries to merge together individual OSCAL YAML components into a unified OSCAL YAML component definition, focused primarily on the specific needs of [Platform One's Big Bang](https://repo1.dso.mil/platform-one/big-bang/bigbang).
 
-- [Defense Unicorn's compliance-auditor](https://github.com/defenseunicorns/compliance-auditor): a tool that will consume OSCAL component-definition files to configure and drive execution of automated security testing for Kubernetes, for now primarily the [Kyverno](https://kyverno.io/) policy management system.
+- [Defense Unicorn's Lula](https://github.com/defenseunicorns/lula): a Command Line Interface tool that will consume OSCAL component-definition files to configure and drive execution of automated control validation for Kubernetes utilizing the [Kyverno](https://kyverno.io/) policy management system.
 
 - [Defense Unicorn's go-oscal](https://github.com/defenseunicorns/go-oscal): a Golang library to generate OSCAL data types.
 
