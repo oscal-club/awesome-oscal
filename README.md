@@ -81,7 +81,7 @@ Before contributing, please review the [Contribution Guidelines](https://github.
 
 - [Wendell Piez's OSCAL Profile Import Examiner](https://wendellpiez.github.io/XMLjellysandwich/oscal/import-examiner/): [XMLJellySandwich]((https://github.com/wendellpiez/XMLjellysandwich)): a web-based, in-browser XSLT transform system leveraging SaxonJS. [@wendellpiez](https://github.com/wendellpiez) has focused one demo on validating an OSCAL profile in XML form by validating upstream catalog references.
 
-## Blog Posts
+## Articles and Blog Posts
 
 - [Bill Weber's "The Future of SCAP Is the Missing Gap in OSCAL"](https://www.billweber.io/2022/05/13/the-future-of-scap-is-the-missing-gap-in-oscal/)
 
@@ -104,6 +104,12 @@ Before contributing, please review the [Contribution Guidelines](https://github.
 - [Šimon Lukašík's "GoComply with OSCAL & FedRAMP :: Introduction to oscalkit"](http://isimluk.com/posts/2020/12/gocomply-with-oscal-fedramp-introduction-to-oscalkit/)
 
 - [Šimon Lukašík's "GoComply with OSCAL & FedRAMP :: Introduction to Metaschema"](http://isimluk.com/posts/2020/12/gocomply-with-oscal-fedramp-introduction-to-metaschema/)
+
+## Presentations and Talks
+
+- [Andrew Martin and Control Plane's "Avoiding IAC Potholes with Policy + Cloud Controllers"](https://www.youtube.com/watch?v=cvoWlwftbEE&list=PLj6h78yzYM2NQ-Zi_k5qVmZyxSmLBzM6V&index=47) from Cloud Native Security Con North America 2023
+
+- [Robert Ficcaglia's "12 Essential Requirements for Policy Enforcement and Governance with OSCAL"](https://www.youtube.com/watch?v=7pbIVjSluMs&list=PLj6h78yzYM2NQ-Zi_k5qVmZyxSmLBzM6V&index=52) from Cloud Native Security Con North America 2023
 
 ## Other Resources
 
