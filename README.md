@@ -49,6 +49,8 @@ Before contributing, please review the [Contribution Guidelines](https://github.
 
 - [GovReady's GovReady-Q](https://github.com/GovReady/govready-q): an open source, web-based self-service GRC tool to automate security assessments and compliance from [@gregelin](https://github.com/gregelin) and the GovReady crew. It focuses on import and export of OSCAL data models.
 
+- [Hidayatullah Ahsan's ValidateOscalDocuments](https://github.com/hahsan-ti/ValidateOscalDocuments): a C# library and console application to validate OSCAL XML documents.
+
 - [IBM Compliance Trestle](https://github.com/IBM/compliance-trestle): an opinionated command-line tooling platform for managing compliance as code, using continuous integration and NIST's OSCAL standard.
 
 - [John Jediny's OSCAL Static Site Playground](https://github.com/JJediny/oscal-static-site-playground): a static web application, using Gatsby and the US Web Design System, with hosting on the Federalist platform, to host a modern responsive application with OSCAL data models in JSON format dropped in place.
