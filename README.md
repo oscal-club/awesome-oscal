@@ -17,6 +17,8 @@ Before contributing, please review the [Contribution Guidelines](https://github.
 
 ## Tools
 
+- [Credentive security's oscal-pydantic](https://github.com/RS-Credentive/oscal-pydantic): A set of pydantic models generated from the OSCAL JSON schema, useful for implementing OSCAL in Python. See also [this PyPI page](https://pypi.org/project/oscal-pydantic/). Just "pip install oscal-pydantic".
+
 - [Alex Koderman's oscal4neo4j](https://github.com/Agh42/oscal4neo4j): a collection of scripts in Neo4j's Cypher query language to load OSCAL catalog data in JSON format into its graph database, potentially for use with [the Red Team Project's Security Control Knowledge Graph](https://gitlab.com/redteam-project/sckg).
 
 - [Brian Ruf's OSCAL-GUI](https://github.com/brian-ruf/OSCAL-GUI): an example PHP web interface developed by [@brian-ruf](https://github.com/brian-ruf) of former FedRAMP fame. It has core presentation logic, file import, format conversion, and working profile resolution.
