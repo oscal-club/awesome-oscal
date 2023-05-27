@@ -21,11 +21,13 @@ Before contributing, please review the [Contribution Guidelines](https://github.
 
 - [Brian Ruf's OSCAL-GUI](https://github.com/brian-ruf/OSCAL-GUI): an example PHP web interface developed by [@brian-ruf](https://github.com/brian-ruf) of former FedRAMP fame. It has core presentation logic, file import, format conversion, and working profile resolution.
 
-- [CivicActions's compliance-io](https://github.com/CivicActions/compliance-io): library for composable functions for conversion from OpenControl to OSCAL.
+- [CivicActions's compliance-io](https://github.com/CivicActions/compliance-io): a library for composable functions for conversion from OpenControl to OSCAL.
 
 - [CivicAction's oscal-component-definitions](https://github.com/CivicActions/oscal-component-definitions): a public collection of OSCAL component definitions for commonly used cloud services, software, security controls, and privacy controls.
 
-- [CivicAtions's ssp-toolkit](https://github.com/CivicActions/ssp-toolkit) is a suite of command line utilities in Python to mediate the creation of system security plans in NIST RMF 800-53 Revision 4 in OpenControl format. It can now export SSPs to OSCAL.
+- [CivicAtions's ssp-toolkit](https://github.com/CivicActions/ssp-toolkit): a suite of command line utilities in Python to mediate the creation of system security plans in NIST RMF 800-53 Revision 4 in OpenControl format. It can now export SSPs to OSCAL.
+
+- [Control Plane's collie](https://github.com/controlplaneio/collie) a project demonstrating how infrastructure provisioned by cloud infrastructure controllers can be simultaneously secured and validated for compliance with Kyverno policies and OSCAL documents, leveraging Lula for validation.
 
 - [Defense Unicorn's bigbang-oscal-component-generator](https://github.com/defenseunicorns/bigbang-oscal-component-generator): a CLI utility and Golang libraries to merge together individual OSCAL YAML components into a unified OSCAL YAML component definition, focused primarily on the specific needs of [Platform One's Big Bang](https://repo1.dso.mil/platform-one/big-bang/bigbang).
 
@@ -61,13 +63,15 @@ Before contributing, please review the [Contribution Guidelines](https://github.
 
 - [mocolicious OSCAL-Examples](https://github.com/mocolicious/OSCAL-Examples): a collection of different front-end web applications leveraging OSCAL, mainly to show off different development workflows and environments. Current development status or community use is unclear.
 
-- [OMB'S OPAL](https://github.com/EOP-OMB/opal): OSCAL Policy Administration Library (OPAL) provides a simple web application from the US government's Office of Management and Budget for managing system security plans, using the OSCAL standard to inform its data models.
-
 - [NREL Cyber's oscal](https://github.com/NREL-CYBER/oscal): a library of types and utility functions for using the OSCAL JSON object models conveniently with Typescript applications.
 
 - [NREL Cyber's oscal-atoms](https://github.com/NREL-CYBER/oscal-atoms): a library for Atomic components for interacting with oscal-cache (see below).
 
 - [NREL Cyber's oscal-cache](https://github.com/NREL-CYBER/oscal-cache): a libray with a collection of stores, commands and queries for OSCAL application cache.
+
+- [OMB'S OPAL](https://github.com/EOP-OMB/opal): OSCAL Policy Administration Library (OPAL) provides a simple web application from the US government's Office of Management and Budget for managing system security plans, using the OSCAL standard to inform its data models.
+
+- [Project SledgeHammer](https://github.com/sunstonesecure-robert/sledgehammer): a project by Robert Ficcaglia and members of the Kubernetes Policy Working Group with an example of using OSCAL and SBOMs (SPDX at this time) as generated with Open Policy Agent (OPA) policies for Kubernetes clusters.
 
 - [RedHat's OpenControl Database](https://github.com/RedHatGov/ocdb): a web application that demonstrates RedHat technologies' conformance to different compliance standards (i.e. NIST 800-53 Revisiion 5) and configuration baselines (i.e. DISA STIG for RedHat Enterprise Linux 7), supporting the export of various artifacts in OSCAL format with GoComply's library.
 
