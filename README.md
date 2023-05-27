@@ -35,7 +35,7 @@ Before contributing, please review the [Contribution Guidelines](https://github.
 
 - [Defense Unicorn's go-oscal](https://github.com/defenseunicorns/go-oscal): a Golang library to generate OSCAL data types.
 
-- [DRTConfidence](https://www.drtstrategies.com/drt-confidence-fedramp): GRC Platform supporting all OSCAL artifacts (catalog, profile, ssp, sap, sar, poa&m) with FedRAMP extensions and validations implemented out of the box. Available in a FedRAMP JAB High authorized Government Cloud Center.
+- [DRTConfidence](https://www.drtconfidence.com): GRC Platform supporting all OSCAL artifacts (catalog, profile, ssp, sap, sar, poa&m) with FedRAMP extensions and validations implemented out of the box. Available in a FedRAMP JAB High authorized Government Cloud Center.
 
 - [EasyDynamics OSCAL REST API Draft Standard](https://github.com/EasyDynamics/oscal-rest): an emerging standard for REST APIs to encourage all tool vendors to make a conformant API surface to reduce future churn in supporting heterogenous APIs for OSCAL-friendly tools and services.
 
