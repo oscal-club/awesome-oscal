@@ -77,6 +77,10 @@ Before contributing, please review the [Contribution Guidelines](https://github.
 
 - [OMB'S OPAL](https://github.com/EOP-OMB/opal): OSCAL Policy Administration Library (OPAL) provides a simple web application from the US government's Office of Management and Budget for managing system security plans, using the OSCAL standard to inform its data models.
 
+- [OSCAL Club's asdf-oscal-cli](https://github.com/oscal-club/asdf-oscal-cli): a plugin for the [~asdf~ extensible version manager](https://github.com/asdf-vm/asdf) so OSCAL adopters can install and switch between multiple versions of NIST's [~oscal-cli~](https://github.com/usnistgov/oscal-cli) repeatedly and reliably.
+
+- [OSCAL Club's oscal-cli-action](https://github.com/oscal-club/oscal-cli-action): a reusable action for developers to repeatedly and reliably use NIST's [~oscal-cli~](https://github.com/usnistgov/oscal-cli) for continuous integration or continuous deployment tasks on [the GitHub Actions service](https://docs.github.com/en/actions).
+
 - [Project SledgeHammer](https://github.com/sunstonesecure-robert/sledgehammer): a project by Robert Ficcaglia and members of the Kubernetes Policy Working Group with an example of using OSCAL and SBOMs (SPDX at this time) as generated with Open Policy Agent (OPA) policies for Kubernetes clusters.
 
 - [RedHat's OpenControl Database](https://github.com/RedHatGov/ocdb): a web application that demonstrates RedHat technologies' conformance to different compliance standards (i.e. NIST 800-53 Revisiion 5) and configuration baselines (i.e. DISA STIG for RedHat Enterprise Linux 7), supporting the export of various artifacts in OSCAL format with GoComply's library.
