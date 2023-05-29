@@ -117,6 +117,14 @@ Before contributing, please review the [Contribution Guidelines](https://github.
 
 - [IBM's "Compliance Automated Standard Solution (COMPASS), Part 3: Artifacts and Personas"](https://dzone.com/articles/compliance-automated-standard-solution-compass-part-3-artifacts-and-personas)
 
+- [NIST's 2nd OSCAL Conference and Workshop](https://www.nist.gov/news-events/events/2021/02/2nd-open-security-controls-assessment-language-oscal-workshop)
+
+- [NIST's 3rd OSCAL Conference and Workshop](https://www.nist.gov/news-events/events/2022/03/3rd-open-security-controls-assessment-language-oscal-workshop)
+
+- [NIST's OSCAL 101 Education Series](https://csrc.nist.gov/Projects/open-security-controls-assessment-language/oscal-education-workshops)
+
+- [NIST's OSCAL Mini Workshops](https://pages.nist.gov/OSCAL/learn/presentations/mini-workshop/)
+
 - [Šimon Lukašík's "GoComply with OSCAL & FedRAMP :: Introduction to OSCAL"](http://isimluk.com/posts/2020/12/gocomply-with-oscal-fedramp-introduction-to-oscal/)
 
 - [Šimon Lukašík's "GoComply with OSCAL & FedRAMP :: Introduction to oscalkit"](http://isimluk.com/posts/2020/12/gocomply-with-oscal-fedramp-introduction-to-oscalkit/)
