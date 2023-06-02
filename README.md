@@ -69,6 +69,11 @@ Before contributing, please review the [Contribution Guidelines](https://github.
 
 - [mocolicious OSCAL-Examples](https://github.com/mocolicious/OSCAL-Examples): a collection of different front-end web applications leveraging OSCAL, mainly to show off different development workflows and environments. Current development status or community use is unclear.
 
+- [Nikita Wootten's Nix package for oscal-cli](https://github.com/nikitawootten/infra/blob/main/packages/oscal-cli/default.nix): a declarative [NixOS Linux](https://nixos.org/) package specification for repeatably building [NIST's oscal-cli utility](https://github.com/usnistgov/oscal-cli).
+
+- [Nikita Wootten's Nix package for oscal-deep-diff](https://github.com/nikitawootten/infra/blob/main/packages/oscal-deep-diff/default.nix): a declarative [NixOS Linux](https://nixos.org/) package specification for repeatably building [NIST's oscal-deep-diff](https://github.com/usnistgov/oscal-deep-diff/) utility.
+
+
 - [NREL Cyber's oscal](https://github.com/NREL-CYBER/oscal): a library of types and utility functions for using the OSCAL JSON object models conveniently with Typescript applications.
 
 - [NREL Cyber's oscal-atoms](https://github.com/NREL-CYBER/oscal-atoms): a library for Atomic components for interacting with oscal-cache (see below).
