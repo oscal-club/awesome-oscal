@@ -124,7 +124,9 @@ Before contributing, please review the [Contribution Guidelines](https://github.
 
 - [NIST's 2nd OSCAL Conference and Workshop](https://www.nist.gov/news-events/events/2021/02/2nd-open-security-controls-assessment-language-oscal-workshop)
 
-- [NIST's 3rd OSCAL Conference and Workshop](https://www.nist.gov/news-events/events/2022/03/3rd-open-security-controls-assessment-language-oscal-workshop)
+- [NIST's 3rd OSCAL Conference and Workshop](https://www.nist.gov/news-events/events/2022/03/\-open-security-controls-assessment-language-oscal-workshop)
+
+- [NIST's 4th OSCAL Conference and Workshop](https://www.nist.gov/news-events/events/2023/05/4th-open-security-controls-assessment-language-oscal-conference-and)
 
 - [NIST's OSCAL 101 Education Series](https://csrc.nist.gov/Projects/open-security-controls-assessment-language/oscal-education-workshops)
 
