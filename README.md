@@ -65,6 +65,8 @@ Before contributing, please review the [Contribution Guidelines](https://github.
 
 - [John Jediny's OSCAL Static Site Playground](https://github.com/JJediny/oscal-static-site-playground): a static web application, using Gatsby and the US Web Design System, with hosting on the Federalist platform, to host a modern responsive application with OSCAL data models in JSON format dropped in place.
 
+- [Metanorma's coradoc-oscal](https://github.com/metanorma/coradoc-oscal): a Ruby utility script to convert Metanorma Coradoc into data in the OSCAL Catalog document instances in YAML format.
+
 - [Metanorma's oscal-ruby](https://github.com/metanorma/oscal-ruby): a Ruby gem for processing OSCAL data in YAML format.
 
 - [MITRE's InSpec OSCAL Plugin](https://github.com/mitre/inspec-oscal/tree/develop): an InSpec plugin developed by MITRE and open-source contributors to prototype the use of InSpec profiles with variables and configuration data embedded, in OSCAL components, SSPs, and other document instances.
