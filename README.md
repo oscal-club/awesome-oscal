@@ -65,6 +65,8 @@ Before contributing, please review the [Contribution Guidelines](https://github.
 
 - [John Jediny's OSCAL Static Site Playground](https://github.com/JJediny/oscal-static-site-playground): a static web application, using Gatsby and the US Web Design System, with hosting on the Federalist platform, to host a modern responsive application with OSCAL data models in JSON format dropped in place.
 
+- [Metanorma's oscal-ruby](https://github.com/metanorma/oscal-ruby): a Ruby gem for processing OSCAL data in YAML format.
+
 - [MITRE's InSpec OSCAL Plugin](https://github.com/mitre/inspec-oscal/tree/develop): an InSpec plugin developed by MITRE and open-source contributors to prototype the use of InSpec profiles with variables and configuration data embedded, in OSCAL components, SSPs, and other document instances.
 
 - [mocolicious OSCAL-Examples](https://github.com/mocolicious/OSCAL-Examples): a collection of different front-end web applications leveraging OSCAL, mainly to show off different development workflows and environments. Current development status or community use is unclear.
