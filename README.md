@@ -19,6 +19,10 @@ Before contributing, please review the [Contribution Guidelines](https://github.
 
 - [Fathom5 SP 800-171 Catalog](https://github.com/FATHOM5/oscal/tree/main/content/SP800-171/oscal-content): the community-maintained version(s) of the NIST SP 800-171 catalog created by Fathom5.
 
+- [RedHat's OSCAL component definitions](https://github.com/RedHatProductSecurity/oscal-component-definitions): a collection of OSCAL Component Defintions for testing with FedRAMP HIGH baseline profile.
+
+- [RedHat's OSCAL profiles](https://github.com/RedHatProductSecurity/oscal-profiles): a collection of OSCAL custom profiles for testing with FedRAMP HIGH baseline profile.
+
 ## Tools
 
 - [Alex Koderman's oscal4neo4j](https://github.com/Agh42/oscal4neo4j): a collection of scripts in Neo4j's Cypher query language to load OSCAL catalog data in JSON format into its graph database, potentially for use with [the Red Team Project's Security Control Knowledge Graph](https://gitlab.com/redteam-project/sckg).
@@ -77,7 +81,6 @@ Before contributing, please review the [Contribution Guidelines](https://github.
 
 - [Nikita Wootten's Nix package for oscal-deep-diff](https://github.com/nikitawootten/infra/blob/main/packages/oscal-deep-diff/default.nix): a declarative [NixOS Linux](https://nixos.org/) package specification for repeatably building [NIST's oscal-deep-diff](https://github.com/usnistgov/oscal-deep-diff/) utility.
 
-
 - [NREL Cyber's oscal](https://github.com/NREL-CYBER/oscal): a library of types and utility functions for using the OSCAL JSON object models conveniently with Typescript applications.
 
 - [NREL Cyber's oscal-atoms](https://github.com/NREL-CYBER/oscal-atoms): a library for Atomic components for interacting with oscal-cache (see below).
@@ -93,6 +96,8 @@ Before contributing, please review the [Contribution Guidelines](https://github.
 - [Project SledgeHammer](https://github.com/sunstonesecure-robert/sledgehammer): a project by Robert Ficcaglia and members of the Kubernetes Policy Working Group with an example of using OSCAL and SBOMs (SPDX at this time) as generated with Open Policy Agent (OPA) policies for Kubernetes clusters.
 
 - [RedHat's OpenControl Database](https://github.com/RedHatGov/ocdb): a web application that demonstrates RedHat technologies' conformance to different compliance standards (i.e. NIST 800-53 Revisiion 5) and configuration baselines (i.e. DISA STIG for RedHat Enterprise Linux 7), supporting the export of various artifacts in OSCAL format with GoComply's library.
+
+- [RedHat's oscal-automation-libs](https://github.com/RedHatProductSecurity/oscal-automation-libs): a common repository to share code for Makefiles, helper scripts, and IaC to support repositories with OSCAL content.
 
 - [RegScale](https://regscale.com/oscal): RegScale Community Edition is a free to use, real-time Governance, Risk and Compliance (GRC) platform that deploys in any environment, integrating with security and compliance tools via API to keep compliance documentation continuously up to date.  GRC staff can work in the UI, engineers can write to the API, and OSCAL v1.0 content is automatically generated on demand.
 
