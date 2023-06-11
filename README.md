@@ -11,6 +11,8 @@ Before contributing, please review the [Contribution Guidelines](https://github.
 
 - [Center for Internet Security's ](https://github.com/CISecurity/CISControls_OSCAL/): the Center for Internet Security's Critical 18 Security controls as an OSCAL catalog, also with their controls related to other catalogs of security controls in the draft OSCAL mapping format.
 
+- [CivicAction's oscal-component-definitions](https://github.com/CivicActions/oscal-component-definitions): a public collection of OSCAL component definitions for commonly used cloud services, software, security controls, and privacy controls.
+
 - [CMS Acceptable Risk Safeguards](https://github.com/CMSgov/ars-machine-readable): the tailored profiles and catalog of adapted NIST SP 800-53 controls used by the Centers for Medicare and Medicaid Services in OSCAL format. Perhaps the first OSCAL content released by a US government agency other than NIST, separate of collaboration with FedRAMP.
 
 - [EasyDynamics oscal.io](https://oscal.io): a community site, like OSCAL Club, with examples of OSCAL content.
@@ -24,8 +26,6 @@ Before contributing, please review the [Contribution Guidelines](https://github.
 - [Brian Ruf's OSCAL-GUI](https://github.com/brian-ruf/OSCAL-GUI): an example PHP web interface developed by [@brian-ruf](https://github.com/brian-ruf) of former FedRAMP fame. It has core presentation logic, file import, format conversion, and working profile resolution.
 
 - [CivicActions's compliance-io](https://github.com/CivicActions/compliance-io): a library for composable functions for conversion from OpenControl to OSCAL.
-
-- [CivicAction's oscal-component-definitions](https://github.com/CivicActions/oscal-component-definitions): a public collection of OSCAL component definitions for commonly used cloud services, software, security controls, and privacy controls.
 
 - [CivicAtions's ssp-toolkit](https://github.com/CivicActions/ssp-toolkit): a suite of command line utilities in Python to mediate the creation of system security plans in NIST RMF 800-53 Revision 4 in OpenControl format. It can now export SSPs to OSCAL.
 
