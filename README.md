@@ -13,7 +13,7 @@ Before contributing, please review the [Contribution Guidelines](https://github.
 
 - [CivicAction's oscal-component-definitions](https://github.com/CivicActions/oscal-component-definitions): a public collection of OSCAL component definitions for commonly used cloud services, software, security controls, and privacy controls.
   
-- [CloudSecurity Cloud Controls Matrix v4 Controls and Mappings](https://cloudsecurityalliance.org/artifacts/ccm-machine-readable-bundle-json-yaml-oscal/): a bundle of the CCM Controls, CAIQ Security Questionnaire, Implementation Guidelines (both JSON/YAML and OSCAL) and Mappings (JSON/YAML) to support organizations that would like to foster CCM automation.
+- [Cloud Security Alliance's Cloud Controls Matrix v4 Controls and Mappings](https://cloudsecurityalliance.org/artifacts/ccm-machine-readable-bundle-json-yaml-oscal/): a bundle of the CCM Controls, CAIQ Security Questionnaire, Implementation Guidelines (both JSON/YAML and OSCAL) and Mappings (JSON/YAML) to support organizations that would like to foster CCM automation.
 
 - [CMS Acceptable Risk Safeguards](https://github.com/CMSgov/ars-machine-readable): the tailored profiles and catalog of adapted NIST SP 800-53 controls used by the Centers for Medicare and Medicaid Services in OSCAL format. Perhaps the first OSCAL content released by a US government agency other than NIST, separate of collaboration with FedRAMP.
 
