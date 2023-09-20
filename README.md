@@ -16,6 +16,8 @@ Before contributing, please review the [Contribution Guidelines](https://github.
 - [Cloud Security Alliance's Cloud Controls Matrix v4 Controls and Mappings](https://cloudsecurityalliance.org/artifacts/ccm-machine-readable-bundle-json-yaml-oscal/): a bundle of the CCM Controls, CAIQ Security Questionnaire, Implementation Guidelines (both JSON/YAML and OSCAL) and Mappings (JSON/YAML) to support organizations that would like to foster CCM automation.
 
 - [CMS Acceptable Risk Safeguards](https://github.com/CMSgov/ars-machine-readable): the tailored profiles and catalog of adapted NIST SP 800-53 controls used by the Centers for Medicare and Medicaid Services in OSCAL format. Perhaps the first OSCAL content released by a US government agency other than NIST, separate of collaboration with FedRAMP.
+  
+- [CyberESI's CPRT OSCAL Catalog Library](https://cyberesi-cg.com/oscal-cprt-catalog-project/): a collection official catalogs of various NIST frameworks in [the CPRT format](https://csrc.nist.gov/Projects/cprt/catalog#/cprt/home) converted to OSCAL through a proprietary converter.
 
 - [EasyDynamics oscal.io](https://oscal.io): a community site, like OSCAL Club, with examples of OSCAL content.
 
