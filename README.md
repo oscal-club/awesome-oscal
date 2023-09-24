@@ -71,6 +71,8 @@ Before contributing, please review the [Contribution Guidelines](https://github.
 
 - [IBM Compliance Trestle](https://github.com/IBM/compliance-trestle): an opinionated command-line tooling platform for managing compliance as code, using continuous integration and NIST's OSCAL standard.
 
+- [IBM's Compliance to Policy Tool](https://github.com/IBM/compliance-to-policy): a framework to bridge the gap between compliance and policy administration with Kubernetes automation and OSCAL catalogs, profiles, and component definitions. 
+
 - [John Jediny's OSCAL Static Site Playground](https://github.com/JJediny/oscal-static-site-playground): a static web application, using Gatsby and the US Web Design System, with hosting on the Federalist platform, to host a modern responsive application with OSCAL data models in JSON format dropped in place.
 
 - [Metanorma's coradoc-oscal](https://github.com/metanorma/coradoc-oscal): a Ruby utility script to convert Metanorma Coradoc into data in the OSCAL Catalog document instances in YAML format.
