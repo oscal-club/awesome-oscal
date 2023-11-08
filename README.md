@@ -101,6 +101,8 @@ Before contributing, please review the [Contribution Guidelines](https://github.
 
 - [Project SledgeHammer](https://github.com/sunstonesecure-robert/sledgehammer): a project by Robert Ficcaglia and members of the Kubernetes Policy Working Group with an example of using OSCAL and SBOMs (SPDX at this time) as generated with Open Policy Agent (OPA) policies for Kubernetes clusters.
 
+- [Ramper](https://ramper.io/). Ramper is a FedRAMP lifecycle automation web application emphasizing Continuous Monitoring. It is a single source of truth for all Plan of Action and Milestone. It is equipped with real-time analytics, and produces monthly FedRAMP POA&M Excel and [OSCAL POA&M](https://ramper.io/oscal) files for FedRAMP PMO or a CSP's approving agency.
+
 - [RedHat's OpenControl Database](https://github.com/RedHatGov/ocdb): a web application that demonstrates RedHat technologies' conformance to different compliance standards (i.e. NIST 800-53 Revisiion 5) and configuration baselines (i.e. DISA STIG for RedHat Enterprise Linux 7), supporting the export of various artifacts in OSCAL format with GoComply's library.
 
 - [RedHat's oscal-automation-libs](https://github.com/RedHatProductSecurity/oscal-automation-libs): a common repository to share code for Makefiles, helper scripts, and IaC to support repositories with OSCAL content.
