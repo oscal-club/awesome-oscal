@@ -111,6 +111,8 @@ Before contributing, please review the [Contribution Guidelines](https://github.
 
 - [Risk Redux's Control Freak](https://github.com/risk-redux/control_freak): a delightful Ruby on Rails application using the NIST 800-53 control catalogs in OSCAL JSON format to make the controls easily searchable.
 
+- [Roscal](https://github.com/gborough/roscal): a Rust based project aiming to build a collection of tools and libraries for OSCAL model building/manipulation/visualisation, conversion and normalisation between various existing security stardard formats and schemas, automation and integration for continuously documentation update and security posture monitoring in various environments, with long term goal of automatic security and control enforcement based on OSCAL models in Docs-as-Code style.
+
 - [SHR Group's iac2oscal](https://gitlab.com/shrgroup/oss/compliance-as-code/iac2oscal): a collection of Infrastructure-as-Code examples (primarily Ansible and Terraform) and how to link them to OSCAL component models for more tightly integrated Infrastructure-as-Code and Documentation-as-Code.
 
 - [SHR Group's oscal-cli container](https://github.com/SHRGroup/oscal-cli): a GitHub repo with supporting GitHub Actions workflow that checks for new releases of [the NIST OSCAL Team's Java-based `oscal-cli` tool](https://github.com/SHRGroup/oscal-cli) and bundles the released application into an OCI container for each new release based on tags.
