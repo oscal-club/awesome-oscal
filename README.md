@@ -61,6 +61,8 @@ Before contributing, please review the [Contribution Guidelines](https://github.
 
 - [GSA's OSCAL Tools](https://github.com/GSA?q=oscal-&type=&language=&sort=): a collection of open-source tools provided by GSA teams to interoperate between OSCAL data (with required FedRAMP Extensions) and Word (DOCX) formats for SSPs, SARs, and SAPs.
 
+- [GSA's oscal-js](https://github.com/GSA/oscal-js): an installer for oscal-cli & helper typescript types and functions for leveraging oscal, available via `npm install oscal`
+
 - [GoComply's FedRAMP Utility](https://github.com/GoComply/fedramp): a tool that uses oscalkit (see below) to stamp in OSCAL data to the FedRAMP Word (DOCX) system security plan templates.
 
 - [GoComply's oscalkit](https://github.com/GoComply/oscalkit): a Golang-based software development kit and command-line utility for operating on OSCAL data models. 
