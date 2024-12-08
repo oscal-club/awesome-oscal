@@ -23,6 +23,8 @@ Before contributing, please review the [Contribution Guidelines](https://github.
 
 - [Fathom5 SP 800-171 Catalog](https://github.com/FATHOM5/oscal/tree/main/content/SP800-171/oscal-content): the community-maintained version(s) of the NIST SP 800-171 catalog created by Fathom5.
 
+- [GovTech Singapore's ICT&SS Policy](https://github.com/GovtechSG/tech-standards): Catalog and Profile for low-risk systems for 'Instruction Manual 8 Reform'.
+
 - [RedHat's OSCAL component definitions](https://github.com/RedHatProductSecurity/oscal-component-definitions): a collection of OSCAL Component Defintions for testing with FedRAMP HIGH baseline profile.
 
 - [RedHat's OSCAL profiles](https://github.com/RedHatProductSecurity/oscal-profiles): a collection of OSCAL custom profiles for testing with FedRAMP HIGH baseline profile.
