@@ -7,11 +7,11 @@ Before contributing, please review the [Contribution Guidelines](https://github.
 
 ## Content
 
-- [Australian Cyber Security Centre's Information Security Manual in OSCAL](https://www.cyber.gov.au/ism/oscal): OSCAL-based security catalogs and profiles for the Australian Cyber Security Centre's Information Security Manual controls.
+- [Australian Cyber Security Centre's Information Security Manual in OSCAL](https://www.cyber.gov.au/ism/oscal): OSCAL-based security catalogs and profiles for the Australian Cyber Security Centre's Information Security Manual controls. Covers ISM control’s applicability (non-classified, OFFICIAL: Sensitive, PROTECTED, SECRET, TOP SECRET), as well as for Essential Eight Maturity Level One (ML1), Maturity Level Two (ML2) and Maturity Level Three (ML3).
 
 - [Center for Internet Security's ](https://github.com/CISecurity/CISControls_OSCAL/): the Center for Internet Security's Critical 18 Security controls as an OSCAL catalog, also with their controls related to other catalogs of security controls in the draft OSCAL mapping format.
 
-- [CivicAction's oscal-component-definitions](https://github.com/CivicActions/oscal-component-definitions): a public collection of OSCAL component definitions for commonly used cloud services, software, security controls, and privacy controls.
+- [CivicActions' oscal-component-definitions](https://github.com/CivicActions/oscal-component-definitions): a public collection of OSCAL component definitions for commonly used cloud services, software, security controls, and privacy controls.
   
 - [Cloud Security Alliance's Cloud Controls Matrix v4 Controls and Mappings](https://cloudsecurityalliance.org/artifacts/ccm-machine-readable-bundle-json-yaml-oscal/): a bundle of the CCM Controls, CAIQ Security Questionnaire, Implementation Guidelines (both JSON/YAML and OSCAL) and Mappings (JSON/YAML) to support organizations that would like to foster CCM automation.
 
@@ -35,13 +35,13 @@ Before contributing, please review the [Contribution Guidelines](https://github.
 
 - [Brian Ruf's OSCAL-GUI](https://github.com/brian-ruf/OSCAL-GUI): an example PHP web interface developed by [@brian-ruf](https://github.com/brian-ruf) of former FedRAMP fame. It has core presentation logic, file import, format conversion, and working profile resolution.
 
-- [CivicActions's compliance-io](https://github.com/CivicActions/compliance-io): a library for composable functions for conversion from OpenControl to OSCAL.
+- [CivicActions' compliance-io](https://github.com/CivicActions/compliance-io): a library for composable functions for conversion from OpenControl to OSCAL.
 
-- [CivicAtions's ssp-toolkit](https://github.com/CivicActions/ssp-toolkit): a suite of command line utilities in Python to mediate the creation of system security plans in NIST RMF 800-53 Revision 4 in OpenControl format. It can now export SSPs to OSCAL.
+- [CivicActions' ssp-toolkit](https://github.com/CivicActions/ssp-toolkit): a suite of command line utilities in Python to mediate the creation of system security plans in NIST RMF 800-53 Revision 4 in OpenControl format. It can now export SSPs to OSCAL.
 
 - [Control Plane's collie](https://github.com/controlplaneio/collie) a project demonstrating how infrastructure provisioned by cloud infrastructure controllers can be simultaneously secured and validated for compliance with Kyverno policies and OSCAL documents, leveraging Lula for validation.
 
-- [Credentive security's oscal-pydantic](https://github.com/RS-Credentive/oscal-pydantic): A set of pydantic models generated from the OSCAL JSON schema, useful for implementing OSCAL in Python. See also [this PyPI page](https://pypi.org/project/oscal-pydantic/). Just "pip install oscal-pydantic".
+- [Credentive Security's oscal-pydantic](https://github.com/RS-Credentive/oscal-pydantic): A set of pydantic models generated from the OSCAL JSON schema, useful for implementing OSCAL in Python. See also [this PyPI page](https://pypi.org/project/oscal-pydantic/). Just "pip install oscal-pydantic".
 
 - [Defense Unicorn's bigbang-oscal-component-generator](https://github.com/defenseunicorns/bigbang-oscal-component-generator): a CLI utility and Golang libraries to merge together individual OSCAL YAML components into a unified OSCAL YAML component definition, focused primarily on the specific needs of [Platform One's Big Bang](https://repo1.dso.mil/platform-one/big-bang/bigbang).
 
