@@ -9,6 +9,8 @@ Before contributing, please review the [Contribution Guidelines](https://github.
 
 - [Australian Cyber Security Centre's Information Security Manual in OSCAL](https://www.cyber.gov.au/ism/oscal): OSCAL-based security catalogs and profiles for the Australian Cyber Security Centre's Information Security Manual controls.
 
+- [Cloud Native Computing Foundation's OSCAL Compass] (https://github.com/oscal-compass): a set of tools that enable the creation, validation, and governance of documentation artifacts for compliance needs. It leverages NIST's OSCAL as a standard data format for interchange between tools and people, and provides an opinionated approach to OSCAL SDK and adoption by policy engines.
+
 - [Center for Internet Security's ](https://github.com/CISecurity/CISControls_OSCAL/): the Center for Internet Security's Critical 18 Security controls as an OSCAL catalog, also with their controls related to other catalogs of security controls in the draft OSCAL mapping format.
 
 - [CivicAction's oscal-component-definitions](https://github.com/CivicActions/oscal-component-definitions): a public collection of OSCAL component definitions for commonly used cloud services, software, security controls, and privacy controls.
