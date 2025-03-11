@@ -39,6 +39,8 @@ Before contributing, please review the [Contribution Guidelines](https://github.
 
 - [CivicActions' ssp-toolkit](https://github.com/CivicActions/ssp-toolkit): a suite of command line utilities in Python to mediate the creation of system security plans in NIST RMF 800-53 Revision 4 in OpenControl format. It can now export SSPs to OSCAL.
 
+- [Cloud Native Computing Foundation's OSCAL Compass] (https://github.com/oscal-compass): a set of tools that enable the creation, validation, and governance of documentation artifacts for compliance needs. It leverages NIST's OSCAL as a standard data format for interchange between tools and people, and provides an opinionated approach to OSCAL SDKs and adoption by policy engines.
+
 - [Control Plane's collie](https://github.com/controlplaneio/collie) a project demonstrating how infrastructure provisioned by cloud infrastructure controllers can be simultaneously secured and validated for compliance with Kyverno policies and OSCAL documents, leveraging Lula for validation.
 
 - [Credentive Security's oscal-pydantic](https://github.com/RS-Credentive/oscal-pydantic): A set of pydantic models generated from the OSCAL JSON schema, useful for implementing OSCAL in Python. See also [this PyPI page](https://pypi.org/project/oscal-pydantic/). Just "pip install oscal-pydantic".
@@ -148,7 +150,7 @@ Before contributing, please review the [Contribution Guidelines](https://github.
 
 - [IBM's "Compliance Automated Standard Solution (COMPASS), Part 2: Trestle SDK"](https://dzone.com/articles/compliance-automated-standard-solution-compass-part-2-trestle-sdk)
 
-- [IBM's "Compliance Automated Standard Solution (COMPASS), Part 3: Artifacts and Personas"](https://dzone.com/articles/compliance-automated-standard-solution-compass-part-3-artifacts-and-personas)
+- [IBM's "Compliance Automated Standard Solution (), Part 3: Artifacts and Personas"](https://dzone.com/articles/compliance-automated-standard-solution--part-3-artifacts-and-personas)
 
 - [NIST's 2nd OSCAL Conference and Workshop](https://www.nist.gov/news-events/events/2021/02/2nd-open-security-controls-assessment-language-oscal-workshop)
 
