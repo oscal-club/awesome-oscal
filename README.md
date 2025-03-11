@@ -9,8 +9,6 @@ Before contributing, please review the [Contribution Guidelines](https://github.
 
 - [Australian Cyber Security Centre's Information Security Manual in OSCAL](https://www.cyber.gov.au/ism/oscal): OSCAL-based security catalogs and profiles for the Australian Cyber Security Centre's Information Security Manual controls.
 
-- [Cloud Native Computing Foundation's OSCAL Compass] (https://github.com/oscal-compass): a set of tools that enable the creation, validation, and governance of documentation artifacts for compliance needs. It leverages NIST's OSCAL as a standard data format for interchange between tools and people, and provides an opinionated approach to OSCAL SDK and adoption by policy engines.
-
 - [Center for Internet Security's ](https://github.com/CISecurity/CISControls_OSCAL/): the Center for Internet Security's Critical 18 Security controls as an OSCAL catalog, also with their controls related to other catalogs of security controls in the draft OSCAL mapping format.
 
 - [CivicAction's oscal-component-definitions](https://github.com/CivicActions/oscal-component-definitions): a public collection of OSCAL component definitions for commonly used cloud services, software, security controls, and privacy controls.
@@ -40,6 +38,8 @@ Before contributing, please review the [Contribution Guidelines](https://github.
 - [CivicActions's compliance-io](https://github.com/CivicActions/compliance-io): a library for composable functions for conversion from OpenControl to OSCAL.
 
 - [CivicAtions's ssp-toolkit](https://github.com/CivicActions/ssp-toolkit): a suite of command line utilities in Python to mediate the creation of system security plans in NIST RMF 800-53 Revision 4 in OpenControl format. It can now export SSPs to OSCAL.
+
+- [Cloud Native Computing Foundation's OSCAL Compass] (https://github.com/oscal-compass): a set of tools that enable the creation, validation, and governance of documentation artifacts for compliance needs. It leverages NIST's OSCAL as a standard data format for interchange between tools and people, and provides an opinionated approach to OSCAL SDKs and adoption by policy engines.
 
 - [Control Plane's collie](https://github.com/controlplaneio/collie) a project demonstrating how infrastructure provisioned by cloud infrastructure controllers can be simultaneously secured and validated for compliance with Kyverno policies and OSCAL documents, leveraging Lula for validation.
 
@@ -150,7 +150,7 @@ Before contributing, please review the [Contribution Guidelines](https://github.
 
 - [IBM's "Compliance Automated Standard Solution (COMPASS), Part 2: Trestle SDK"](https://dzone.com/articles/compliance-automated-standard-solution-compass-part-2-trestle-sdk)
 
-- [IBM's "Compliance Automated Standard Solution (COMPASS), Part 3: Artifacts and Personas"](https://dzone.com/articles/compliance-automated-standard-solution-compass-part-3-artifacts-and-personas)
+- [IBM's "Compliance Automated Standard Solution (), Part 3: Artifacts and Personas"](https://dzone.com/articles/compliance-automated-standard-solution--part-3-artifacts-and-personas)
 
 - [NIST's 2nd OSCAL Conference and Workshop](https://www.nist.gov/news-events/events/2021/02/2nd-open-security-controls-assessment-language-oscal-workshop)
 
