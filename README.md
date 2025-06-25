@@ -113,7 +113,7 @@ Before contributing, please review the [Contribution Guidelines](https://github.
 
 - [RedHat's oscal-automation-libs](https://github.com/RedHatProductSecurity/oscal-automation-libs): a common repository to share code for Makefiles, helper scripts, and IaC to support repositories with OSCAL content.
 
-- [RedHat's Trestle-Bot](https://github.com/RedHatProductSecurity/trestle-bot): a set of GitHub Actions for working with IBM's [Compliance Trestle](https://github.com/IBM/compliance-trestle)
+- [RedHat's ComplyScribe](https://github.com/complytime/complyscribe): a set of GitHub Actions for working with IBM's [Compliance Trestle](https://github.com/IBM/compliance-trestle)
  in a CI/CD pipeline
 
 - [RegScale](https://regscale.com/oscal): RegScale Community Edition is a free to use, real-time Governance, Risk and Compliance (GRC) platform that deploys in any environment, integrating with security and compliance tools via API to keep compliance documentation continuously up to date.  GRC staff can work in the UI, engineers can write to the API, and OSCAL v1.0 content is automatically generated on demand.
