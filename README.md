@@ -29,6 +29,8 @@ Before contributing, please review the [Contribution Guidelines](https://github.
 
 - [RedHat's OSCAL profiles](https://github.com/RedHatProductSecurity/oscal-profiles): a collection of OSCAL custom profiles for testing with FedRAMP HIGH baseline profile.
 
+- [Secure Controls Framework (SCF) catalog](https://tools.scfconnectlabs.com/): a comprehensive catalog of cybersecurity and privacy controls, with mappings to worldwide compliance standards.
+
 ## Tools
 
 - [Alex Koderman's oscal4neo4j](https://github.com/Agh42/oscal4neo4j): a collection of scripts in Neo4j's Cypher query language to load OSCAL catalog data in JSON format into its graph database, potentially for use with [the Red Team Project's Security Control Knowledge Graph](https://gitlab.com/redteam-project/sckg).
