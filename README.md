@@ -7,6 +7,8 @@ Before contributing, please review the [Contribution Guidelines](https://github.
 
 ## Content
 
+- [Federal Baseline Protection Manual Stand-der-Technik-Bibliothek](https://github.com/BSI-Bund/Stand-der-Technik-Bibliothek) - German Federal Office for Information Security provides its regulations machine-readable in the OSCAL format.
+
 - [Australian Cyber Security Centre's Information Security Manual in OSCAL](https://www.cyber.gov.au/ism/oscal): OSCAL-based security catalogs and profiles for the Australian Cyber Security Centre's Information Security Manual controls. Covers ISM control’s applicability (non-classified, OFFICIAL: Sensitive, PROTECTED, SECRET, TOP SECRET), as well as for Essential Eight Maturity Level One (ML1), Maturity Level Two (ML2) and Maturity Level Three (ML3).
 
 - [Center for Internet Security's ](https://github.com/CISecurity/CISControls_OSCAL/): the Center for Internet Security's Critical 18 Security controls as an OSCAL catalog, also with their controls related to other catalogs of security controls in the draft OSCAL mapping format.
