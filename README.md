@@ -31,6 +31,12 @@ Before contributing, please review the [Contribution Guidelines](https://github.
 
 ## Tools
 
+- [BSI-GS-Benutzerdefinierte-Edition23-OSCAL](https://github.com/NTTDATA-DACH/BSI-GS-Benutzerdefinierte-Edition23-OSCAL) - This project automatically converts PDF modules of the BSI baseline protection into OSCAL-compliant JSON using Google Gemini. The converter immediately enriches the raw data with multi-level maturity models and contextual information. The system natively supports WiBA-compliant checklists.
+-  [BSI Baseline Protection++ OSCAL Profile and Components Creator](https://github.com/AG-3-Nutzergenerierte-Inhalte/AG-3-Tooling/tree/main/ai_tool) - An AI-supported tool creates profiles and components for the upcoming version of the BSI baseline protection. Security teams use it to automate the error-prone generation of complex OSCAL structures. Although the creator enormously accelerates the construction of new IT security concepts, users must rigorously verify the AI-generated outputs. Why rely blindly on automated compliance data when you bear the ultimate responsibility for your critical infrastructure?
+
+
+* [OSCAL from Profile to POA&M One-Page Apps](https://github.com/AG-3-Nutzergenerierte-Inhalte/Stand-der-Technik-Bibliothek/tree/main/Nutzergenerierte-Inhalte/tools) - This compact web applications maps the entire process from the OSCAL profile to the Plan of Action and Milestones (POA&M) each on a single page. Integrated AI assistants directly support the user during editing, while a native viewer visualizes the data structures.
+
 - [Alex Koderman's oscal4neo4j](https://github.com/Agh42/oscal4neo4j): a collection of scripts in Neo4j's Cypher query language to load OSCAL catalog data in JSON format into its graph database, potentially for use with [the Red Team Project's Security Control Knowledge Graph](https://gitlab.com/redteam-project/sckg).
 
 - [Brian Ruf's OSCAL-GUI](https://github.com/brian-ruf/OSCAL-GUI): an example PHP web interface developed by [@brian-ruf](https://github.com/brian-ruf) of former FedRAMP fame. It has core presentation logic, file import, format conversion, and working profile resolution.
