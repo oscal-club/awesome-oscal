@@ -130,6 +130,8 @@ Before contributing, please review the [Contribution Guidelines](https://github.
 
 - [SHR Group's OSCAL Diagram Exmaples](https://gitlab.com/shrgroup/oss/compliance-as-code/example-diagrams): a collection of documentation and diagrams for advanced OSCAL use cases, primarily showing how to interrelate data inside OSCAL component definitions.
 
+- [Venturalitica SDK](https://github.com/Venturalitica/venturalitica-sdk): Open-source Python SDK that uses OSCAL for policy-as-code enforcement in ML training pipelines. Generates OSCAL catalog and component definitions for EU AI Act (Arts. 9–15) and ISO 42001 compliance. Also produces CycloneDX ML BOM and Annex IV documentation. `pip install venturalitica`
+
 - [Wendell Piez's OSCAL Profile Import Examiner](https://wendellpiez.github.io/XMLjellysandwich/oscal/import-examiner/): [XMLJellySandwich]((https://github.com/wendellpiez/XMLjellysandwich)): a web-based, in-browser XSLT transform system leveraging SaxonJS. [@wendellpiez](https://github.com/wendellpiez) has focused one demo on validating an OSCAL profile in XML form by validating upstream catalog references.
 
 ## Articles and Blog Posts
