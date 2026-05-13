@@ -176,6 +176,9 @@ Before contributing, please review the [Contribution Guidelines](https://github.
 
 ## Other Resources
 
+- [awesome-terraform-compliance](https://github.com/antonbabenko/awesome-terraform-compliance): curated list of compliance, security, and governance resources for Terraform/OpenTofu, including OSCAL tooling, evidence generation, and framework mappings.
+
+
 - [Brad Hards ISM OSCAL Catalog](https://github.com/bradh/ism-oscal): a community developer's collection of [the Australian Government's Information Security Manual security controls](https://www.cyber.gov.au/acsc/view-all-content/ism) in the form of an OSCAL catalog and profiles (including Essential 8).
 
 - [oscal-diagrams](https://github.com/cyght-io/oscal-diagrams): Automatically generated diagrams for visualizing the OSCAL data models.
