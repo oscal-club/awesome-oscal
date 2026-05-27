@@ -25,6 +25,8 @@ Before contributing, please review the [Contribution Guidelines](https://github.
 
 - [GovTech Singapore's ICT&SS Policy](https://github.com/GovtechSG/tech-standards): Catalog and Profile for low-risk systems for 'Instruction Manual 8 Reform'.
 
+- [Polycentric Labs' OSCAL conversion of OpenSSF OSPS Baseline](https://github.com/Polycentric-Labs/evidentia/blob/main/packages/evidentia-core/src/evidentia_core/catalogs/data/international/osps-baseline.oscal.json): a NIST OSCAL Catalog 1.2.1 serialization of the OpenSSF Open Source Project Security Baseline v2026.02.19 (full 41-control set across Access Control, Build & Release, Documentation, Governance, Legal, Quality Assurance, Security Architecture, and Vulnerability Management families). Upstream pinned at ossf/security-baseline@ac6bbec8aecf51dce41f62712745f7949ab6bdeb. Apache-2.0 licensed; produced by the [Evidentia](https://github.com/Polycentric-Labs/evidentia) open-source GRC engineering tool.
+
 - [RedHat's OSCAL component definitions](https://github.com/RedHatProductSecurity/oscal-component-definitions): a collection of OSCAL Component Defintions for testing with FedRAMP HIGH baseline profile.
 
 - [RedHat's OSCAL profiles](https://github.com/RedHatProductSecurity/oscal-profiles): a collection of OSCAL custom profiles for testing with FedRAMP HIGH baseline profile.
