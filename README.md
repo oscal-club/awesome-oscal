@@ -105,6 +105,8 @@ Before contributing, please review the [Contribution Guidelines](https://github.
 
 - [OSCAL Club's oscal-cli-action](https://github.com/oscal-club/oscal-cli-action): a reusable action for developers to repeatedly and reliably use NIST's [`oscal-cli`](https://github.com/usnistgov/oscal-cli) for continuous integration or continuous deployment tasks on [the GitHub Actions service](https://docs.github.com/en/actions).
 
+- [oscal-cpp26](https://github.com/vschwaberow/oscal-cpp26): a modern C++26 library and module for handling and processing NIST's OSCAL standard models.
+
 - [Project SledgeHammer](https://github.com/sunstonesecure-robert/sledgehammer): a project by Robert Ficcaglia and members of the Kubernetes Policy Working Group with an example of using OSCAL and SBOMs (SPDX at this time) as generated with Open Policy Agent (OPA) policies for Kubernetes clusters.
 
 - [Ramper](https://ramper.io/). Ramper is a FedRAMP lifecycle automation web application emphasizing Continuous Monitoring. It is a single source of truth for all Plan of Action and Milestone. It is equipped with real-time analytics, and produces monthly FedRAMP POA&M Excel and [OSCAL POA&M](https://ramper.io/oscal) files for FedRAMP PMO or a CSP's approving agency.
