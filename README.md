@@ -19,6 +19,8 @@ Before contributing, please review the [Contribution Guidelines](https://github.
   
 - [CyberESI's CPRT OSCAL Catalog Library](https://cyberesi-cg.com/oscal-cprt-catalog-project/): a collection official catalogs of various NIST frameworks in [the CPRT format](https://csrc.nist.gov/Projects/cprt/catalog#/cprt/home) converted to OSCAL through a proprietary converter.
 
+- [EU AI Act OSCAL catalog](https://github.com/olon-standards/eu-ai-act-oscal): an Apache-2.0 OSCAL catalog of 50 operator-facing obligations from Regulation (EU) 2024/1689 as amended by Regulation (EU) 2026/1744, with five profiles, an assessment plan, a template SSP, and automated validation and profile-resolution checks.
+
 - [EasyDynamics oscal.io](https://oscal.io): a community site, like OSCAL Club, with examples of OSCAL content.
 
 - [Fathom5 SP 800-171 Catalog](https://github.com/FATHOM5/oscal/tree/main/content/SP800-171/oscal-content): the community-maintained version(s) of the NIST SP 800-171 catalog created by Fathom5.
