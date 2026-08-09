@@ -178,4 +178,6 @@ Before contributing, please review the [Contribution Guidelines](https://github.
 
 - [Brad Hards ISM OSCAL Catalog](https://github.com/bradh/ism-oscal): a community developer's collection of [the Australian Government's Information Security Manual security controls](https://www.cyber.gov.au/acsc/view-all-content/ism) in the form of an OSCAL catalog and profiles (including Essential 8).
 
+- [Baden Hughes NZ ISM OSCAL Catalog, Profiles](https://github.com/badenh/nzism-oscal): a community created OSCAL collection for the [New Zealand Information Security Manual (NZISM) v3.9 November 2025](https://nzism.gcsb.govt.nz/ism-document) - catalog, profiles, resolved profile catalogs
+  
 - [oscal-diagrams](https://github.com/cyght-io/oscal-diagrams): Automatically generated diagrams for visualizing the OSCAL data models.
