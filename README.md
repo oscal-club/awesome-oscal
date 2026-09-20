@@ -118,6 +118,8 @@ Before contributing, please review the [Contribution Guidelines](https://github.
 
 - [RegScale](https://regscale.com/oscal): RegScale Community Edition is a free to use, real-time Governance, Risk and Compliance (GRC) platform that deploys in any environment, integrating with security and compliance tools via API to keep compliance documentation continuously up to date.  GRC staff can work in the UI, engineers can write to the API, and OSCAL v1.0 content is automatically generated on demand.
 
+- [Reposol](https://github.com/philippkatsch/security-management-OSCAL): a web-based graphical editor and management platform for NIST OSCAL documents across the compliance lifecycle. Features visual catalog authoring, profile tailoring with parameter overrides, multi-format import (JSON/YAML/XML), and a [live browser demo](https://security-management-oscal.fly.dev/).
+
 - [Risk Redux's Control Freak](https://github.com/risk-redux/control_freak): a delightful Ruby on Rails application using the NIST 800-53 control catalogs in OSCAL JSON format to make the controls easily searchable.
 
 - [Roscal](https://github.com/gborough/roscal): a Rust based project aiming to build a collection of tools and libraries for OSCAL model building/manipulation/visualisation, conversion and normalisation between various existing security stardard formats and schemas, automation and integration for continuously documentation update and security posture monitoring in various environments, with long term goal of automatic security and control enforcement based on OSCAL models in Docs-as-Code style.
