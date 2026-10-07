@@ -35,6 +35,8 @@ Before contributing, please review the [Contribution Guidelines](https://github.
 
 - [Brian Ruf's OSCAL-GUI](https://github.com/brian-ruf/OSCAL-GUI): an example PHP web interface developed by [@brian-ruf](https://github.com/brian-ruf) of former FedRAMP fame. It has core presentation logic, file import, format conversion, and working profile resolution.
 
+- [Ciqualia's Complaica](https://ciqualia.com/complaica/oscal/): an ISMS platform that imports OSCAL catalogs such as NIST SP 800-53, BSI IT-Grundschutz++ and custom organizational catalogs, keeps them versioned and refreshed from their online sources, and exports them back to OSCAL.
+
 - [CivicActions' compliance-io](https://github.com/CivicActions/compliance-io): a library for composable functions for conversion from OpenControl to OSCAL.
 
 - [CivicActions' ssp-toolkit](https://github.com/CivicActions/ssp-toolkit): a suite of command line utilities in Python to mediate the creation of system security plans in NIST RMF 800-53 Revision 4 in OpenControl format. It can now export SSPs to OSCAL.
