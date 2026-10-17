@@ -132,6 +132,8 @@ Before contributing, please review the [Contribution Guidelines](https://github.
 
 - [Wendell Piez's OSCAL Profile Import Examiner](https://wendellpiez.github.io/XMLjellysandwich/oscal/import-examiner/): [XMLJellySandwich]((https://github.com/wendellpiez/XMLjellysandwich)): a web-based, in-browser XSLT transform system leveraging SaxonJS. [@wendellpiez](https://github.com/wendellpiez) has focused one demo on validating an OSCAL profile in XML form by validating upstream catalog references.
 
+- [aws-compliance-as-code](https://github.com/Mihirajmera/aws-compliance-as-code): read-only AWS control checks mapped to NIST 800-53, SOC 2, ISO 27001 and CIS, exported as OSCAL 1.1.2 assessment results with SHA-256-hashed evidence.
+
 ## Articles and Blog Posts
 
 - [Bill Weber's "The Future of SCAP Is the Missing Gap in OSCAL"](https://www.billweber.io/2022/05/13/the-future-of-scap-is-the-missing-gap-in-oscal/)
