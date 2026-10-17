@@ -132,6 +132,8 @@ Before contributing, please review the [Contribution Guidelines](https://github.
 
 - [Wendell Piez's OSCAL Profile Import Examiner](https://wendellpiez.github.io/XMLjellysandwich/oscal/import-examiner/): [XMLJellySandwich]((https://github.com/wendellpiez/XMLjellysandwich)): a web-based, in-browser XSLT transform system leveraging SaxonJS. [@wendellpiez](https://github.com/wendellpiez) has focused one demo on validating an OSCAL profile in XML form by validating upstream catalog references.
 
+- [llm-redteam-evidence](https://github.com/Mihirajmera/llm-redteam-evidence): a Python CLI that converts LLM red-team results (garak, promptfoo) into OSCAL 1.1.2 assessment results, with one finding per control carrying attack success rate, tolerance and framework mappings as properties.
+
 ## Articles and Blog Posts
 
 - [Bill Weber's "The Future of SCAP Is the Missing Gap in OSCAL"](https://www.billweber.io/2022/05/13/the-future-of-scap-is-the-missing-gap-in-oscal/)
