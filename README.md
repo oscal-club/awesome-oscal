@@ -132,6 +132,8 @@ Before contributing, please review the [Contribution Guidelines](https://github.
 
 - [Wendell Piez's OSCAL Profile Import Examiner](https://wendellpiez.github.io/XMLjellysandwich/oscal/import-examiner/): [XMLJellySandwich]((https://github.com/wendellpiez/XMLjellysandwich)): a web-based, in-browser XSLT transform system leveraging SaxonJS. [@wendellpiez](https://github.com/wendellpiez) has focused one demo on validating an OSCAL profile in XML form by validating upstream catalog references.
 
+- [agent-access-review](https://github.com/Mihirajmera/agent-access-review): a Python CLI that reviews AI agent and MCP server access against 12 controls and exports OSCAL 1.1.2 assessment results, with one observation per agent linked to its SHA-256-hashed evidence file.
+
 ## Articles and Blog Posts
 
 - [Bill Weber's "The Future of SCAP Is the Missing Gap in OSCAL"](https://www.billweber.io/2022/05/13/the-future-of-scap-is-the-missing-gap-in-oscal/)
