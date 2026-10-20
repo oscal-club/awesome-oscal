@@ -132,6 +132,8 @@ Before contributing, please review the [Contribution Guidelines](https://github.
 
 - [Wendell Piez's OSCAL Profile Import Examiner](https://wendellpiez.github.io/XMLjellysandwich/oscal/import-examiner/): [XMLJellySandwich]((https://github.com/wendellpiez/XMLjellysandwich)): a web-based, in-browser XSLT transform system leveraging SaxonJS. [@wendellpiez](https://github.com/wendellpiez) has focused one demo on validating an OSCAL profile in XML form by validating upstream catalog references.
 
+- [Chelsea Kelly-Reif's oscal-validate](https://github.com/ChelseaKR/oscal-validate): an offline Python command line validator that checks OSCAL JSON documents (catalog, profile, SSP, component definition, assessment plan, assessment results, POA&M) against NIST's published JSON Schema and Metaschema constraints, and reports identifier, uniqueness, and unresolved-reference findings with the rule behind each one. Structural conformance only; it does not assess whether a control is implemented.
+
 ## Articles and Blog Posts
 
 - [Bill Weber's "The Future of SCAP Is the Missing Gap in OSCAL"](https://www.billweber.io/2022/05/13/the-future-of-scap-is-the-missing-gap-in-oscal/)
